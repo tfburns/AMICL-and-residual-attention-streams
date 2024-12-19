@@ -16,4 +16,4 @@ File `datasets_v2.py` specifies the dataset generation, files beginning with `tr
 
 ## Small LM
 
-Code for simulating the small LMs is contained in the `small-LM` folder and is based on the implementations of Raymond Van and Andrej Karpathy. The modified model is specified and trained in the filenames appended with `_Vpass`. File `IOI_task.py` runs, for trained models, the indirect object indentification tests.
+Code for simulating the small LMs is contained in the `small-LM` folder and is based on the implementations of Raymond Van and Andrej Karpathy. The modified model is specified and trained in the filenames appended with `_Vpass`. File `IOI_task.py` runs the indirect object indentification tests on model files named therein.
